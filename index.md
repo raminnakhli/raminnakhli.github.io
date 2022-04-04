@@ -6,15 +6,16 @@ Prior to my PhD, I studied my master's in computer science at University of Tehr
 
 ## Experiences
 
-**Graduate Research Assistant, University of British Columbia** (September 2020 - Present)
-
-**Graduate Research Assistant, University of Tehran** (September 2017 - September 2020)
-
-**Senior Software Engineer (Golang), Pasargad Electronic Payment** (March 2019 - September 2020)
-
-**Software Engineer (C), Fanap Payment** (August 2016 - March 2019)
-
-**Software Engineer Intern (C/Lua), Fanap Payment** (May 2016 - August 2016)
+- **Graduate Research Assistant, University of British Columbia** 
+  (September 2020 - Present)
+- **Graduate Research Assistant, University of Tehran** 
+  (September 2017 - September 2020)
+- **Senior Software Engineer (Golang), Pasargad Electronic Payment** 
+  (March 2019 - September 2020)
+- **Software Engineer (C), Fanap Payment** 
+  (August 2016 - March 2019)
+- **Software Engineer Intern (C/Lua), Fanap Payment** 
+  (May 2016 - August 2016)
 
 ## Publications
 
