@@ -19,7 +19,5 @@ Prior to my PhD, I studied my master's in computer science at University of Tehr
 ## Publications
 
 - **Movie Recommender System Based on Percentage of View** 
-
-  **<u>R. E. Nakhli**</u>, H. Moradi, M. A. Sadeghi
-
+  **<u>R. E. Nakhli</u>**, H. Moradi, M. A. Sadeghi
   5th Conference on Knowledge-Based Engineering and Innovation (KBEI), 2019
