@@ -5,19 +5,12 @@ Prior to my PhD, I studied my master's in computer science at University of Tehr
 
 ## Experiences
 
-- **Graduate Research Assistant, University of British Columbia** 
-  (September 2020 - Present)
-- **Graduate Research Assistant, University of Tehran** 
-  (September 2017 - September 2020)
-- **Senior Software Engineer (Golang), Pasargad Electronic Payment** 
-  (March 2019 - September 2020)
-- **Software Engineer (C), Fanap Payment** 
-  (August 2016 - March 2019)
-- **Software Engineer Intern (C/Lua), Fanap Payment** 
-  (May 2016 - August 2016)
+- **Graduate Research Assistant, University of British Columbia** <br> (September 2020 - Present)
+- **Graduate Research Assistant, University of Tehran** <br> (September 2017 - September 2020)
+- **Senior Software Engineer (Golang), Pasargad Electronic Payment** <br> (March 2019 - September 2020)
+- **Software Engineer (C), Fanap Payment** <br> (August 2016 - March 2019)
+- **Software Engineer Intern (C/Lua), Fanap Payment** <br> (May 2016 - August 2016)
 
 ## Publications
 
-- **Movie Recommender System Based on Percentage of View** 
-  **<u>R. E. Nakhli</u>**, H. Moradi, M. A. Sadeghi
-  5th Conference on Knowledge-Based Engineering and Innovation (KBEI), 2019
+- **Movie Recommender System Based on Percentage of View** <br> **<u>R. E. Nakhli</u>**, H. Moradi, M. A. Sadeghi <br> 5th Conference on Knowledge-Based Engineering and Innovation (KBEI), 2019
