@@ -13,3 +13,4 @@ I'm a PhD student at University of British Columbia working on applications of D
 ## Publications
 
 - **Movie Recommender System Based on Percentage of View** <br> **<u>R. E. Nakhli</u>**, H. Moradi, M. A. Sadeghi <br> 5th Conference on Knowledge-Based Engineering and Innovation (KBEI), 2019
+- **Gastrointestinal symptoms and the severity of COVID-19: Disorders of gut–brain interaction are an outcome** <br> **<u>R. E. Nakhli<\u>**, Aaron Shanker, Irene Sarosiek, et al. <br> Journal of Neurogastroenterology and Motility, 2022
