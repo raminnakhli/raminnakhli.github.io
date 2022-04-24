@@ -4,7 +4,7 @@ I'm a PhD student at University of British Columbia working on applications of D
 
 ## Experiences
 
-- [**Graduate Research Assistant, University of British Columbia**](https://aimlab.ca/team/) <br> (September 2020 - Present)
+- [**Graduate Research Assistant, University of British Columbia**](https://aimlab.ca/team/){:target="_blank" rel="noopener"} <br> (September 2020 - Present)
 - **Graduate Research Assistant, University of Tehran** <br> (September 2017 - September 2020)
 - **Senior Software Engineer (Golang), Pasargad Electronic Payment** <br> (March 2019 - September 2020)
 - **Software Engineer (C), Fanap Payment** <br> (August 2016 - March 2019)
