@@ -5,10 +5,10 @@ I'm a PhD student at University of British Columbia working on applications of D
 ## Experiences
 
 - [**Graduate Research Assistant, University of British Columbia**](https://aimlab.ca/team/){:target="_blank" rel="noopener"} <br> (September 2020 - Present)
-- **Graduate Research Assistant, University of Tehran** <br> (September 2017 - September 2020)
-- **Senior Software Engineer (Golang), Pasargad Electronic Payment** <br> (March 2019 - September 2020)
-- **Software Engineer (C), Fanap Payment** <br> (August 2016 - March 2019)
-- **Software Engineer Intern (C/Lua), Fanap Payment** <br> (May 2016 - August 2016)
+- [**Graduate Research Assistant, University of Tehran**](https://ece.ut.ac.ir/en/ece){:target="_blank" rel="noopener"} <br> (September 2017 - September 2020)
+- [**Senior Software Engineer (Golang), Pasargad Electronic Payment**](https://fanap.ir/psp){:target="_blank" rel="noopener"} <br> (March 2019 - September 2020)
+- [**Software Engineer (C), Fanap Payment**](https://fanap.ir/psp){:target="_blank" rel="noopener"} <br> (August 2016 - March 2019)
+- [**Software Engineer Intern (C/Lua), Fanap Payment**](https://fanap.ir/psp){:target="_blank" rel="noopener"} <br> (May 2016 - August 2016)
 
 ## Publications
 
