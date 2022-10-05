@@ -4,14 +4,14 @@ I'm a PhD student at University of British Columbia working on applications of D
 
 ## Experiences
 
-- [**Graduate Research Assistant, University of British Columbia**](https://aimlab.ca/team/){:target="_blank" rel="noopener"} <br> (September 2020 - Present)
-- [**Graduate Research Assistant, University of Tehran**](https://ece.ut.ac.ir/en/ece){:target="_blank" rel="noopener"} <br> (September 2017 - September 2020)
-- [**Senior Software Engineer (Golang), Pasargad Electronic Payment**](https://pep.co.ir/en/){:target="_blank" rel="noopener"} <br> (March 2019 - September 2020)
-- [**Software Engineer (C), Fanap Payment**](https://fanap.ir){:target="_blank" rel="noopener"} <br> (August 2016 - March 2019)
-- [**Software Engineer Intern (C/Lua), Fanap Payment**](https://fanap.ir){:target="_blank" rel="noopener"} <br> (May 2016 - August 2016)
+- [**Graduate Research Assistant, University of British Columbia**](https://aimlab.ca/team/){:target="_blank" rel="noopener"} <br> (September 2020 - Present)  <br>
+- [**Graduate Research Assistant, University of Tehran**](https://ece.ut.ac.ir/en/ece){:target="_blank" rel="noopener"} <br> (September 2017 - September 2020) <br>
+- [**Senior Software Engineer (Golang), Pasargad Electronic Payment**](https://pep.co.ir/en/){:target="_blank" rel="noopener"} <br> (March 2019 - September 2020) <br>
+- [**Software Engineer (C), Fanap Payment**](https://fanap.ir){:target="_blank" rel="noopener"} <br> (August 2016 - March 2019) <br>
+- [**Software Engineer Intern (C/Lua), Fanap Payment**](https://fanap.ir){:target="_blank" rel="noopener"} <br> (May 2016 - August 2016) <br>
 
 ## Publications
 
-- [**CCRL: Contrastive Cell Representation Learning**](https://arxiv.org/abs/2208.06445){:target="_blank" rel="noopener"} <br> **<u>R. E. Nakhli</u>**, A. Darbandsari, H. Farahani, A. Bashashati <br> ECCVW, 2022
-- [**Movie Recommender System Based on Percentage of View**](https://ieeexplore.ieee.org/document/8734976){:target="_blank" rel="noopener"} <br> **<u>R. E. Nakhli</u>**, H. Moradi, M. A. Sadeghi <br> 5th Conference on Knowledge-Based Engineering and Innovation (KBEI), 2019
-- [**Gastrointestinal symptoms and the severity of COVID-19: Disorders of gut–brain interaction are an outcome**](https://pubmed.ncbi.nlm.nih.gov/35383423/){:target="_blank" rel="noopener"} <br> **<u>R. E. Nakhli</u>**, Aaron Shanker, Irene Sarosiek, et al. <br> Journal of Neurogastroenterology and Motility, 2022
+- [**CCRL: Contrastive Cell Representation Learning**](https://arxiv.org/abs/2208.06445){:target="_blank" rel="noopener"} <br> **<u>R. E. Nakhli</u>**, A. Darbandsari, H. Farahani, A. Bashashati <br> **ECCV** w, 2022 <br>
+- [**Movie Recommender System Based on Percentage of View**](https://ieeexplore.ieee.org/document/8734976){:target="_blank" rel="noopener"} <br> **<u>R. E. Nakhli</u>**, H. Moradi, M. A. Sadeghi <br> 5th Conference on Knowledge-Based Engineering and Innovation (**KBEI**), 2019 <br>
+- [**Gastrointestinal symptoms and the severity of COVID-19: Disorders of gut–brain interaction are an outcome**](https://pubmed.ncbi.nlm.nih.gov/35383423/){:target="_blank" rel="noopener"} <br> **<u>R. E. Nakhli</u>**, Aaron Shanker, Irene Sarosiek, et al. <br> Journal of Neurogastroenterology and Motility (**JNM**), 2022 <br>
