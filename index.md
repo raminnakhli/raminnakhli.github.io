@@ -4,9 +4,9 @@ I'm a PhD student at University of British Columbia working on applications of D
 
 ## Publications
 
-- **CCRL: Contrastive Cell Representation Learning** <br> **<u>R. E. Nakhli</u>**, A. Darbandsari, H. Farahani, A. Bashashati <br> **ECCVW**, 2022 <br> <span style="color:red;"> Best paper award</span> <br> [paper](https://arxiv.org/abs/2208.06445){:target="_blank" rel="noopener"} &emsp; [code](https://github.com/raminnakhli/Contrastive-Cell-Representation-Learning){:target="_blank" rel="noopener"} <br> <br>
-- [**Movie Recommender System Based on Percentage of View**](https://ieeexplore.ieee.org/document/8734976){:target="_blank" rel="noopener"} <br> **<u>R. E. Nakhli</u>**, H. Moradi, M. A. Sadeghi <br> 5th Conference on Knowledge-Based Engineering and Innovation (**KBEI**), 2019 <br> <br>
-- [**Gastrointestinal symptoms and the severity of COVID-19: Disorders of gut–brain interaction are an outcome**](https://pubmed.ncbi.nlm.nih.gov/35383423/){:target="_blank" rel="noopener"} <br> **<u>R. E. Nakhli</u>**, Aaron Shanker, Irene Sarosiek, et al. <br> Journal of Neurogastroenterology and Motility (**JNM**), 2022 <br> <br>
+- **CCRL: Contrastive Cell Representation Learning** <br> **<u>R. E. Nakhli</u>**, A. Darbandsari, H. Farahani, A. Bashashati <br> **ECCVW**, 2022 <br> <span style="color:red;"> Best paper award</span> <br> [paper](https://arxiv.org/abs/2208.06445){:target="_blank" rel="noopener"} &emsp; [code](https://github.com/raminnakhli/Contrastive-Cell-Representation-Learning){:target="_blank" rel="noopener"} &emsp; [oral](https://youtu.be/gOv6ukYzLEw){:target="_blank" rel="noopener"} <br> <br>
+- **Movie Recommender System Based on Percentage of View** <br> **<u>R. E. Nakhli</u>**, H. Moradi, M. A. Sadeghi <br> 5th Conference on Knowledge-Based Engineering and Innovation (**KBEI**), 2019 <br> [paper] (https://ieeexplore.ieee.org/document/8734976){:target="_blank" rel="noopener"} <br> <br>
+- **Gastrointestinal symptoms and the severity of COVID-19: Disorders of gut–brain interaction are an outcome** <br> **<u>R. E. Nakhli</u>**, Aaron Shanker, Irene Sarosiek, et al. <br> Journal of Neurogastroenterology and Motility (**JNM**), 2022 <br> [paper] (https://pubmed.ncbi.nlm.nih.gov/35383423/){:target="_blank" rel="noopener"} <br> <br>
 
 ## Experiences
 
