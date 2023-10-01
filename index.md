@@ -21,5 +21,5 @@ I'm a PhD student at University of British Columbia working on applications of D
 ### Academic
 - [**PhD in Biomedical Engineering (Deep Learning and Machine Learning), University of British Columbia**](https://aimlab.ca/team/){:target="_blank" rel="noopener"} <br> (September 2020 - Present)  <br> <br>
 - [**MSc in Computer Science, University of Tehran**](https://ece.ut.ac.ir/en/ece){:target="_blank" rel="noopener"} <br> (September 2017 - September 2020) <br> <br>
-- [**BSc in Electrical Engineering, Sharif University of Technology**](https://en.sharif.edu/sharif-university-of-technology){:target="_blank" rel="noopener"} <br> (September 2017 - September 2020) <br> <br>
+- [**BSc in Electrical Engineering, Sharif University of Technology**](https://en.sharif.edu/sharif-university-of-technology){:target="_blank" rel="noopener"} <br> (September 2013 - September 2017) <br> <br>
 
