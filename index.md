@@ -12,9 +12,14 @@ I'm a PhD student at University of British Columbia working on applications of D
 
 ## Experiences
 
-- [**Graduate Research Assistant, University of British Columbia**](https://aimlab.ca/team/){:target="_blank" rel="noopener"} <br> (September 2020 - Present)  <br> <br>
-- [**Graduate Research Assistant, University of Tehran**](https://ece.ut.ac.ir/en/ece){:target="_blank" rel="noopener"} <br> (September 2017 - September 2020) <br> <br>
+### Industrial
+- [**Machine Learning Research Intern, Qualcomm**](https://www.qualcomm.com/){:target="_blank" rel="noopener"} <br> (May 2023 - September 2023)  <br> <br>
 - [**Senior Software Engineer (Golang), Pasargad Electronic Payment**](https://pep.co.ir/en/){:target="_blank" rel="noopener"} <br> (March 2019 - September 2020) <br> <br>
 - [**Software Engineer (C), Fanap Payment**](https://fanap.ir){:target="_blank" rel="noopener"} <br> (August 2016 - March 2019) <br> <br>
 - [**Software Engineer Intern (C/Lua), Fanap Payment**](https://fanap.ir){:target="_blank" rel="noopener"} <br> (May 2016 - August 2016) <br> <br>
+
+### Academic
+- [**PhD in Biomedical Engineering (Deep Learning and Machine Learning), University of British Columbia**](https://aimlab.ca/team/){:target="_blank" rel="noopener"} <br> (September 2020 - Present)  <br> <br>
+- [**MSc in Computer Science, University of Tehran**](https://ece.ut.ac.ir/en/ece){:target="_blank" rel="noopener"} <br> (September 2017 - September 2020) <br> <br>
+- [**BSc in Electrical Engineering, Sharif University of Technology**](https://en.sharif.edu/sharif-university-of-technology){:target="_blank" rel="noopener"} <br> (September 2017 - September 2020) <br> <br>
 
