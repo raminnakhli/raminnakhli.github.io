@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a PhD student at University of British Columbia working on applications of Deep Learning in medicine. More specifically, I'm using self-supervised learning and graph neural networks to improve diagnosis of cancer using histopathology images while reducing (better say removing!) the human supervision. My research interests lie in computer vision and graph neural networks.  <br> Prior to my PhD, I studied my master's in computer science at University of Tehran and got my bachelor's degree in electrical engineering from Sharif University of Technology.
+I'm a PhD student at University of British Columbia working on applications of Deep Learning and Machine Learning. More specifically, I'm using self-supervised learning and graph neural networks to solve challenging problems on large-scale datasets such as gigapixel(!) histopathology images while reducing the human supervision. My research interests lie in computer vision, language models, and generative AI. <br> Prior to my PhD, I studied my master's in computer science at University of Tehran and got my bachelor's degree in electrical engineering from Sharif University of Technology.
 
 ## Publications
 
