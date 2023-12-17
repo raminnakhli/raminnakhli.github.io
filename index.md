@@ -12,7 +12,6 @@ I'm a PhD student at University of British Columbia working on applications of D
 
 ## Experiences
 
-### Industrial
 - [**Machine Learning Research Intern, Qualcomm**](https://www.qualcomm.com/){:target="_blank" rel="noopener"} <br> (May 2023 - September 2023)  <br> <br>
 - [**Senior Software Engineer (Golang), Pasargad Electronic Payment**](https://pep.co.ir/en/){:target="_blank" rel="noopener"} <br> (March 2019 - September 2020) <br> <br>
 - [**Software Engineer (C), Fanap Payment**](https://fanap.ir){:target="_blank" rel="noopener"} <br> (August 2016 - March 2019) <br> <br>
